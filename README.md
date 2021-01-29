@@ -1,1 +1,1 @@
-# Angry-birds-stage-master-7
+# AngryBirdsStage7
